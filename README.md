@@ -1,4 +1,4 @@
-# DungeonHavoc1
+# DungeonHavoc
 high school computer science project
 
 How to run:
